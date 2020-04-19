@@ -10,6 +10,8 @@
 - *UNIX Network Programming*
 ## 算法和数据结构
 - 《算法》
+- 《算法导论》
+- [Leetcode](https://leetcode.com/problemset/all/)
 -  《算法竞赛入门经典（第二版）》《算法竞赛入门经典 训练指南》
 ## 编译原理
 - 《编译原理》
